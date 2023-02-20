@@ -1,7 +1,7 @@
 import os
 from random import randint
 
-for i in range(365, 565):  # Loop over 365 days (1 year)
+for i in range(730, 1065):  # Loop over 365 days (1 year)
     for j in range(0, randint(1, 8)):  # Random commits per day
         d = str(i) + ' days ago'  # Date format
         with open('file_new.txt', 'a') as file:  # Open file.txt in append mode
