@@ -1,1 +1,1 @@
-# VestedFinance-IOS
+# Vested Finance iOS Automation
